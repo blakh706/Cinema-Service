@@ -40,7 +40,7 @@ This web project represents a simple online service with basic features such as:
 ### **Steps** for you to follow:
 
 - [ ] Add this project to your IDE as **Maven project**.
-- [ ] In src/main/resources/db.properties add Driver, path to your DB, password and username
+- [ ] In `src/main/resources/db.properties` add Driver, path to your DB, password and username
 - [ ] Run the project via Tomcat configuration.
 
 First, you redirected to login page. Here you can use default users to login:
